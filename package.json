@@ -13,5 +13,6 @@
 	},
 	"author": "Newton Lomar",
 	"description": "A project that does something awesome",
-	"keywords": ["fcc", "freecodecamp", "example"]
+	"keywords": ["fcc", "freecodecamp", "example"],
+	"license": "MIT"
 }
